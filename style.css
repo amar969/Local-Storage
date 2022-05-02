@@ -1,0 +1,19 @@
+#buttons{
+    padding: 5px;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+#buttons button{
+    margin-left: 20px;
+    padding: 8px;
+    border-radius: 5px;
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+}
+
+video{
+    width: 500px;
+    height: 500px;
+}
